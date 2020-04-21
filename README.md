@@ -8,4 +8,4 @@ pip install -r requirements.txt
 Python grid.py
 ```
 
-![](path_finder_gif.gif)
+![](path_finder_gif_1.gif)
